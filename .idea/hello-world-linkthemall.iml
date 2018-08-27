@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/linkthemall-laravel/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/linkthemall-laravel/tests" isTestSource="true" packagePrefix="Tests\" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/adaojunior/passport-social-grant" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/asm89/stack-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/barryvdh/laravel-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/defuse/php-encryption" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/erusev/parsedown" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/firebase/php-jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/jakub-onderka/php-console-color" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/jakub-onderka/php-console-highlighter" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/laravel/passport" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/laravel/socialite" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/lcobucci/jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/league/event" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/league/oauth1-client" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/league/oauth2-server" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/phpseclib/phpseclib" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/symfony/psr-http-message-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/linkthemall-laravel/vendor/zendframework/zend-diactoros" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
